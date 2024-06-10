@@ -4,6 +4,11 @@
 
 Fabric is a high-level Python library designed to execute shell commands remotely over SSH, providing a simple yet powerful tool for managing and automating deployment, system administration, and other tasks on multiple servers.
 
+### Installation for windows
+
+Check if pip is configured correctly.
+If yes, than for windows run the command : pip install fabric
+
 ### Key Features
 
 1. **Remote Command Execution**: Run shell commands on remote servers via SSH.
